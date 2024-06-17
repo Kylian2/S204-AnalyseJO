@@ -3,8 +3,12 @@ from bs4 import BeautifulSoup
 import csv
 
 #Url for men : https://www.olympedia.org/results/41079
+#Url for women : https://www.olympedia.org/results/41175
 
-fichier = 'pages_web/Olympedia – Individual, Men.html'
+#File for men : pages_web/Olympedia – Individual, Men.html
+#File for women : pages_web/Olympedia – Individual, Women.html
+
+fichier = 'pages_web/Olympedia – Individual, Women.html'
 dossier_csv = "data/"
 
 with open(fichier, 'r', encoding='utf-8') as file:
