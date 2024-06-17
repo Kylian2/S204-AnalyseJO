@@ -12,8 +12,6 @@ with open(fichier, 'r', encoding='utf-8') as file:
 
 soup = BeautifulSoup(content, 'html.parser')
 
-titles = soup.find_all('h2')
-
 def remove_useless_columns(table):
     if not table or not table[0]:
         return table
@@ -31,6 +29,12 @@ def remove_useless_columns(table):
 
     return table
 
+# Permet de distinguer l'évenement, servira pour le nom du ficher csv
+event = soup.find('h1')
+event = (((event.get_text(strip=True)).replace(" ", "-")).replace(",","")).lower()
+
+titles = soup.find_all('h2')
+
 for title in titles:
     # Trouver le tableau des scores après chaque type de manche 
     # Il est contenu dans un table avec la classe table-striped
@@ -46,7 +50,7 @@ for title in titles:
 
         table_data = remove_useless_columns(table_data)
 
-        with open(dossier_csv+csv_file_name, 'w', newline='', encoding='utf-8') as csvfile:
+        with open(dossier_csv+event+'-'+csv_file_name, 'w', newline='', encoding='utf-8') as csvfile:
             csvwriter = csv.writer(csvfile)
             csvwriter.writerows(table_data)
 
