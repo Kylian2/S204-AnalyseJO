@@ -1,33 +1,33 @@
 Match,Date/Time,Competitor,NOC,Result,Competitor,NOC
-Match #1,17 Sep,Kim Su-Nyeong,KOR,164 – 124,Margaret Tumusiime,UGA
-Match #2,17 Sep,Melissa Jennison,AUS,160 – 151,Khatuna Lorigi,GEO
-Match #3,17 Sep,Kirstin Lewis,RSA,154 – 153,Natalia Nasaridze-Çakir,TUR
-Match #4,17 Sep,Michelle Tremelling,AUS,154 – 146,Janet Dykman,USA
-Match #5,17 Sep,Liu Pi-Yu,TPE,161 – 152,Katja Brix Poulsen,DEN
-Match #6,17 Sep,Yang Jianping,CHN,156 – 154,Mayumi Asano,JPN
-Match #7,17 Sep,Joanna Nowicka,POL,152 – 139,Volha Zabuhina-Moroz,BLR
-Match #8,17 Sep,Petra Ericsson,SWE,152 – 146,Edisbel Martínez,CUB
-Match #9,17 Sep,Olena Sadovnycha,UKR,163 – 155,Agata Bulwa,POL
-Match #10,17 Sep,Anna Łęcka,POL,163 – 149,Yelena Plotnikova,KAZ
-Match #11,17 Sep,Nataliya Bolotova,RUS,161 – 154,Evangelia Psarra,GRE
-Match #12,17 Sep,Lin Yi-Yin,TPE,158 – 140,Asmat Diasamidze,GEO
-Match #13,17 Sep,Yun Mi-Jin,KOR,168 – 157,Érika Reyes,MEX
-Match #14,17 Sep,Hanna Karasiova,BLR,163 – 162,Almudena Gallardo,ESP
-Match #15,17 Sep,Alison Williamson,GBR,156 – 145,Kristina Nordlander,SWE
-Match #16,17 Sep,Elif Altınkaynak,TUR,160 – 143,Jennifer Chan,PHI
-Match #17,17 Sep,Kim Nam-Sun,KOR,167 – 134,Win Thi Thi,MYA
-Match #18,17 Sep,Wen Chia-Ling,TPE,151 – 149,Sylvie Pissis,FRA
-Match #19,17 Sep,Cornelia Pfohl,GER,159 – 155,Vladlena Priestman,GBR
-Match #20,17 Sep,He Ying,CHN,160 – 145,Wenche-Lin Hess,NOR
-Match #21,17 Sep,Sayoko Kawauchi,JPN,151 – 146,Denisse van Lamoen,CHI
-Match #22,17 Sep,Kate Fairweather,AUS,166 – 158,Khatuna Phutkaradze,GEO
-Match #23,17 Sep,Karen Scavotto,USA,162 – 152,Denise Parker,USA
-Match #24,17 Sep,Yaremis Pérez,CUB,159 – 155,Yu Hui,CHN
-Match #25,17 Sep,Choe Ok-Sil,PRK,161 – 149,Katri Suutari,FIN
-Match #26,17 Sep,Nataliya Burdeina,UKR,166 – 157,Zekiye Şatır,TUR
-Match #27,17 Sep,Barbara Mensing,GER,157 – 149,Alexandra Fouace,FRA
-Match #28,17 Sep,Kateryna Serdiuk,UKR,157 – 144,Irene Franchini,ITA
-Match #29,17 Sep,Natalia Valeeva,ITA,166 – 126,Henriette Youanga,CAF
-Match #30,17 Sep,Karin Larsson,SWE,147 – 146,Sandra Sachse,GER
-Match #31,17 Sep,Cristina Ioriatti,ITA,154 – 145,Jill Börresen,RSA
-Match #32,17 Sep,Hamdiah Damanhuri,INA,165 – 153,Tshering Choden,BHU
+41214,17 Sep,1962,KOR,164 – 124,83198,UGA
+41215,17 Sep,80469,AUS,160 – 151,504,GEO
+41216,17 Sep,2102,RSA,154 – 153,2173,TUR
+41217,17 Sep,80470,AUS,154 – 146,2207,USA
+41218,17 Sep,2159,TPE,161 – 152,80482,DEN
+41219,17 Sep,390,CHN,156 – 154,80500,JPN
+41220,17 Sep,2061,POL,152 – 139,353,BLR
+41221,17 Sep,83188,SWE,152 – 146,80479,CUB
+41222,17 Sep,2184,UKR,163 – 155,83182,POL
+41223,17 Sep,83183,POL,163 – 149,83166,KAZ
+41224,17 Sep,83186,RUS,161 – 154,80496,GRE
+41225,17 Sep,2158,TPE,158 – 140,80493,GEO
+41226,17 Sep,83170,KOR,168 – 157,83172,MEX
+41227,17 Sep,80472,BLR,163 – 162,80485,ESP
+41228,17 Sep,564,GBR,156 – 145,2134,SWE
+41229,17 Sep,2170,TUR,160 – 143,83181,PHI
+41230,17 Sep,83169,KOR,167 – 134,83174,MYA
+41231,17 Sep,83193,TPE,151 – 149,80490,FRA
+41232,17 Sep,513,GER,159 – 155,80492,GBR
+41233,17 Sep,382,CHN,160 – 145,2037,NOR
+41234,17 Sep,80502,JPN,151 – 146,80475,CHI
+41235,17 Sep,80468,AUS,166 – 158,80494,GEO
+41236,17 Sep,83204,USA,162 – 152,2214,USA
+41237,17 Sep,80480,CUB,159 – 155,80477,CHN
+41238,17 Sep,82794,PRK,161 – 149,80487,FIN
+41239,17 Sep,83200,UKR,166 – 157,83197,TUR
+41240,17 Sep,510,GER,157 – 149,80489,FRA
+41241,17 Sep,83203,UKR,157 – 144,80498,ITA
+41242,17 Sep,1992,ITA,166 – 126,80474,CAF
+41243,17 Sep,83191,SWE,147 – 146,527,GER
+41244,17 Sep,80499,ITA,154 – 145,2100,RSA
+41245,17 Sep,1887,INA,165 – 153,80473,BHU

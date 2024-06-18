@@ -1,0 +1,8 @@
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 2110, 1973, '167 – 164')")
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 300, 80478, '167 – 163')")
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 83175, 2187, '166 – 164')")
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 471, 83176, '166 – 159')")
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 1921, 83168, '169 – 166')")
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 2143, 80476, '167 – 164')")
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 83205, 1953, '171 – 166')")
+curseur.execute(f"INSERT INTO match_individuel VALUES ((SELECT COUNT(*) FROM match_individuel), {idev}, {id_manche}, 1978, 83164, '166 – 160')")
