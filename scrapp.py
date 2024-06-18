@@ -8,7 +8,7 @@ import csv
 #File for men : pages_web/Olympedia – Individual, Men.html
 #File for women : pages_web/Olympedia – Individual, Women.html
 
-fichier = 'pages_web/Olympedia – Individual, Women.html'
+fichier = 'pages_web/Olympedia – Individual, Men.html'
 dossier_csv = "data/"
 
 with open(fichier, 'r', encoding='utf-8') as file:
@@ -33,6 +33,10 @@ def remove_useless_columns(table):
 
     return table
 
+def getId(links):
+    champs = links.split('/')
+    return champs[len(champs)-1]
+
 # Permet de distinguer l'évenement, servira pour le nom du ficher csv
 event = soup.find('h1')
 event = (((event.get_text(strip=True)).replace(" ", "-")).replace(",","")).lower()
@@ -48,8 +52,16 @@ for title in titles:
         table_data = list()
         # Parcourir les lignes du tableau
         for ligne in table.find_all('tr'):
-            ligne_data = [colonne.get_text(strip=True) for colonne in ligne.find_all(['th', 'td'])] #Crée un tableau avec toute les valeurs de la ligne
-            table_data.append(ligne_data)
+            ligne_data = list()
+            for i, colonne in enumerate(ligne.find_all(['th', 'td'])):
+                # Extraire l'URL dans la deuxième colonne (index 1)
+                    link = colonne.find('a', href=True)
+                    if link:
+                        ligne_data.append(getId(link['href']))
+                    else:
+                        ligne_data.append(colonne.get_text(strip=True))
+
+            table_data.append(ligne_data)     
         csv_file_name = ((title.get_text(strip=True)).replace(" ", "-")).lower() + '.csv'
 
         table_data = remove_useless_columns(table_data)
@@ -60,5 +72,3 @@ for title in titles:
 
     else:
         print(f"Aucun tableau trouvé après le titre: {title.get_text(strip=True)}")
-
-            

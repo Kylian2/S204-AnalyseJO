@@ -1,33 +1,33 @@
 Match,Date/Time,Competitor,NOC,Result,Competitor,NOC
-Match #1,18 Sep,Jang Yong-Ho,KOR,172 – 98,Kuresa Tupua,ASA
-Match #2,18 Sep,Hasan Orbay,TUR,165 – 153,Juan Carlos Manjarrez,MEX
-Match #3,18 Sep,Balzhinima Tsyrempilov,RUS,168 – 147,Peter Ebden,NZL
-Match #4,18 Sep,Bartosz Mikos,POL,157 – 155,Fu Shengjun,CHN
-Match #5,18 Sep,Simon Fairweather,AUS,170 – 161,Juan Carlos Stevens,CUB
-Match #6,18 Sep,Jocelyn de Grandis,FRA,171 – 163,Yury Leontyev,RUS
-Match #7,18 Sep,Ismely Arias,CUB,164 – 160,Ihor Parkhomenko,UKR
-Match #8,18 Sep,Simon Needham,GBR,160 – 155,Ken Uprichard,NZL
-Match #9,18 Sep,Stanislav Zabrodsky,KAZ,166 – 149,Essam Sayed,EGY
-Match #10,18 Sep,Niklas Eriksson,SWE,161 – 155,Rob Rusnov,CAN
-Match #11,18 Sep,Grzegorz Targoński,POL,166 – 164,Takayoshi Matsushita,JPN
-Match #12,18 Sep,Wietse van Alten,NED,163 – 160,Miika Aulio,FIN
-Match #13,18 Sep,Rod White,USA,158 – 145,François Latil,VAN
-Match #14,18 Sep,Fred van Zutphen,NED,161 – 155,Jari Lipponen,FIN
-Match #15,18 Sep,Bård Nesteng,NOR,158 – 149,Henk Vogels,NED
-Match #16,18 Sep,Sébastien Flûte,FRA,160 – 156,Serdar Şatir,TUR
-Match #17,18 Sep,Kim Cheong-Tae,KOR,169 – 141,Yehya Bundhun,MRI
-Match #18,18 Sep,Ilario Di Buò,ITA,163 – 158,Yuji Hamano,JPN
-Match #19,18 Sep,Michele Frangilli,ITA,168 – 158,Lars Erik Humlekjær,NOR
-Match #20,18 Sep,Scott Hunter-Russell,AUS,154 – 146,Özdemir Akbal,TUR
-Match #21,18 Sep,Magnus Petersson,SWE,165 – 146,Nuno Pombo,POR
-Match #22,18 Sep,Tang Hua,CHN,163 – 161,Matt Gray,AUS
-Match #23,18 Sep,Yang Bo,CHN,164 – 155,Viktor Kurchenko,UKR
-Match #24,18 Sep,Christian Stubbe,GER,163 – 161,Lionel Torrés,FRA
-Match #25,18 Sep,Vic Wunderle,USA,160 – 150,Cristóbal Merlos,ESA
-Match #26,18 Sep,Serhiy Antonov,UKR,164 – 153,Bair Badyonov,RUS
-Match #27,18 Sep,Vadim Shikarev,KAZ,158 – 156,Mattias Eriksson,SWE
-Match #28,18 Sep,Nico Hendrickx,BEL,162 – 156,Jubzang Jubzang,BHU
-Match #29,18 Sep,Oh Gyo-Mun,KOR,168 – 132,Dominic Rebelo,KEN
-Match #30,18 Sep,Butch Johnson,USA,164 – 151,Peter Koprivnikar,SLO
-Match #31,18 Sep,Matteo Bisiani,ITA,166 – 158,Martinus Grov,NOR
-Match #32,18 Sep,Masafumi Makiyama,JPN,151 – 150,Aleksandr Li,KAZ
+41118,18 Sep,1973,KOR,172 – 98,80467,ASA
+41119,18 Sep,83194,TUR,165 – 153,83171,MEX
+41120,18 Sep,2110,RUS,168 – 147,83179,NZL
+41121,18 Sep,83184,POL,157 – 155,394,CHN
+41122,18 Sep,300,AUS,170 – 161,80481,CUB
+41123,18 Sep,80488,FRA,171 – 163,2198,RUS
+41124,18 Sep,80478,CUB,164 – 160,83202,UKR
+41125,18 Sep,80491,GBR,160 – 155,83180,NZL
+41126,18 Sep,2187,KAZ,166 – 149,80483,EGY
+41127,18 Sep,83190,SWE,161 – 155,380,CAN
+41128,18 Sep,83185,POL,166 – 164,1942,JPN
+41129,18 Sep,83175,NED,163 – 160,80486,FIN
+41130,18 Sep,2253,USA,158 – 145,83206,VAN
+41131,18 Sep,83176,NED,161 – 155,440,FIN
+41132,18 Sep,83178,NOR,158 – 149,2035,NED
+41133,18 Sep,471,FRA,160 – 156,83196,TUR
+41134,18 Sep,83168,KOR,169 – 141,83173,MRI
+41135,18 Sep,1919,ITA,163 – 158,80501,JPN
+41136,18 Sep,1921,ITA,168 – 158,83177,NOR
+41137,18 Sep,304,AUS,154 – 146,83195,TUR
+41138,18 Sep,2143,SWE,165 – 146,2075,POR
+41139,18 Sep,401,CHN,163 – 161,302,AUS
+41140,18 Sep,80476,CHN,164 – 155,83201,UKR
+41141,18 Sep,80495,GER,163 – 161,500,FRA
+41142,18 Sep,83205,USA,160 – 150,80484,ESA
+41143,18 Sep,83199,UKR,164 – 153,2108,RUS
+41144,18 Sep,1953,KAZ,158 – 156,83189,SWE
+41145,18 Sep,80471,BEL,162 – 156,346,BHU
+41146,18 Sep,1978,KOR,168 – 132,1957,KEN
+41147,18 Sep,2235,USA,164 – 151,2111,SLO
+41148,18 Sep,1918,ITA,166 – 158,2040,NOR
+41149,18 Sep,83164,JPN,151 – 150,83165,KAZ

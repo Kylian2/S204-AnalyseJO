@@ -1,17 +1,17 @@
 Match,Date/Time,Competitor,NOC,Result,Competitor,NOC
-Match #1,18 Sep,Jang Yong-Ho,KOR,169 – 160,Hasan Orbay,TUR
-Match #2,18 Sep,Balzhinima Tsyrempilov,RUS,163 – 154,Bartosz Mikos,POL
-Match #3,18 Sep,Simon Fairweather,AUS,161 – 150,Jocelyn de Grandis,FRA
-Match #4,18 Sep,Ismely Arias,CUB,164 – 164,Simon Needham,GBR
-Match #5,18 Sep,Stanislav Zabrodsky,KAZ,163 – 146,Niklas Eriksson,SWE
-Match #6,18 Sep,Wietse van Alten,NED,160 – 157,Grzegorz Targoński,POL
-Match #7,18 Sep,Fred van Zutphen,NED,153 – 152,Rod White,USA
-Match #8,18 Sep,Sébastien Flûte,FRA,160 – 148,Bård Nesteng,NOR
-Match #9,18 Sep,Kim Cheong-Tae,KOR,162 – 159,Ilario Di Buò,ITA
-Match #10,18 Sep,Michele Frangilli,ITA,164 – 154,Scott Hunter-Russell,AUS
-Match #11,18 Sep,Magnus Petersson,SWE,157 – 148,Tang Hua,CHN
-Match #12,18 Sep,Yang Bo,CHN,159 – 152,Christian Stubbe,GER
-Match #13,18 Sep,Vic Wunderle,USA,152 – 151,Serhiy Antonov,UKR
-Match #14,18 Sep,Vadim Shikarev,KAZ,154 – 151,Nico Hendrickx,BEL
-Match #15,18 Sep,Oh Gyo-Mun,KOR,166 – 160,Butch Johnson,USA
-Match #16,18 Sep,Masafumi Makiyama,JPN,162 – 159,Matteo Bisiani,ITA
+41101,18 Sep,1973,KOR,169 – 160,83194,TUR
+41102,18 Sep,2110,RUS,163 – 154,83184,POL
+41103,18 Sep,300,AUS,161 – 150,80488,FRA
+41104,18 Sep,80478,CUB,164 – 164,80491,GBR
+41105,18 Sep,2187,KAZ,163 – 146,83190,SWE
+41106,18 Sep,83175,NED,160 – 157,83185,POL
+41107,18 Sep,83176,NED,153 – 152,2253,USA
+41108,18 Sep,471,FRA,160 – 148,83178,NOR
+41109,18 Sep,83168,KOR,162 – 159,1919,ITA
+41110,18 Sep,1921,ITA,164 – 154,304,AUS
+41111,18 Sep,2143,SWE,157 – 148,401,CHN
+41112,18 Sep,80476,CHN,159 – 152,80495,GER
+41113,18 Sep,83205,USA,152 – 151,83199,UKR
+41114,18 Sep,1953,KAZ,154 – 151,80471,BEL
+41115,18 Sep,1978,KOR,166 – 160,2235,USA
+41116,18 Sep,83164,JPN,162 – 159,1918,ITA
