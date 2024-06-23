@@ -24,7 +24,7 @@ i=0
 with open('queries/'+file_name+'.py', 'w', newline='', encoding='utf-8') as sqlfile:
     for index, row in table.iterrows():
 
-        query1 = f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ({id_resultat},{"{idev}"}, {"{id_manche}"}, '{row['Points']}', '{row['Targets Hit']}', '{row['10s']}', '{row['9s']}')"
+        query1 = f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ({id_resultat},{"{idev}"}, {"{id_manche}"}, '{row['Points']}', '{row['10s']}', '{row['Xs']}', '{row['Part #1']}', '{row['Part #2']}')"
         commande1 = f'curseur.execute(f"{query1}")'
         query2 = f"INSERT INTO performance_individuelle VALUES ({"{idev}"}, {"{id_manche}"}, {row['Competitor']}, '{row['Points']}', 'Points', null, {id_resultat_for_perf})"
         commande2 = f'curseur.execute(f"{query2}")'

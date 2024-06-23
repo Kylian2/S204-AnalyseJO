@@ -4,7 +4,7 @@ import pandas as pd
 
 # Lire le fichier CSV dans un DataFrame
 
-file_name = 'individual-men-final-round' #sans l'extension
+file_name = 'individual-men-round-three' #sans l'extension
 
 table = pd.read_csv('data/' + file_name + '.csv')
 
