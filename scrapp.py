@@ -41,7 +41,7 @@ def getId(links):
 event = soup.find('h1')
 event = (((event.get_text(strip=True)).replace(" ", "-")).replace(",","")).lower()
 
-titles = soup.find_all('h2')
+titles = soup.find_all('h1')
 
 for title in titles:
     # Trouver le tableau des scores après chaque type de manche 

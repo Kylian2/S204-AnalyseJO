@@ -1,192 +1,192 @@
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '665', '72', '27', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1973, '665', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '688', '43', '15', '345 (1)', '343 (4)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 144969, '688', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '660', '72', '26', '5')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1978, '660', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '682', '41', '14', '337 (7)', '345 (1)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 111530, '682', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '655', '72', '27', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83168, '655', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '681', '39', '18', '337 (9)', '344 (3)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 124388, '681', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '651', '72', '23', '9')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2253, '651', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '680', '37', '23', '340 (2)', '340 (5)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 134919, '680', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '649', '72', '22', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2187, '649', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '678', '37', '12', '333 (18)', '345 (2)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2103727, '678', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '646', '72', '25', '8')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2143, '646', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '675', '37', '9', '338 (4)', '337 (7)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 145535, '675', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '643', '72', '21', '8')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83205, '643', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '674', '35', '6', '338 (5)', '336 (10)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 141803, '674', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '642', '72', '20', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 300, '642', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '670', '30', '15', '334 (16)', '336 (11)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 135226, '670', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '641', '72', '20', '8')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80491, '641', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '669', '34', '10', '338 (3)', '331 (17)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 126848, '669', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '640', '72', '25', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80471, '640', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '669', '32', '9', '337 (6)', '332 (16)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 136120, '669', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '639', '72', '25', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 500, '639', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '669', '31', '9', '332 (21)', '337 (6)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 141802, '669', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '638', '71', '24', '5')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83175, '638', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '668', '31', '8', '336 (11)', '332 (14)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2504096, '668', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '637', '72', '19', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83196, '637', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '668', '28', '10', '332 (22)', '336 (9)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 133130, '668', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '636', '72', '23', '5')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83195, '636', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '667', '29', '11', '334 (15)', '333 (13)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 145534, '667', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '635', '72', '22', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83165, '635', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '666', '29', '8', '337 (10)', '329 (25)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 134406, '666', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '635', '72', '20', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 394, '635', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '665', '27', '7', '328 (35)', '337 (8)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 111544, '665', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '635', '72', '15', '2')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2110, '635', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '662', '28', '10', '337 (8)', '325 (44)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 140936, '662', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '634', '72', '23', '10')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1918, '634', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '662', '27', '12', '331 (24)', '331 (20)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 141609, '662', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '634', '72', '16', '3')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1921, '634', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '662', '25', '13', '334 (17)', '328 (33)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 122283, '662', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '634', '71', '21', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2035, '634', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '661', '28', '12', '335 (12)', '326 (40)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 126326, '661', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '633', '72', '15', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83185, '633', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '661', '26', '8', '329 (28)', '332 (15)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 136070, '661', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '632', '72', '23', '13')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80476, '632', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '661', '26', '6', '332 (20)', '329 (26)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 144501, '661', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '632', '72', '23', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1953, '632', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '660', '30', '12', '334 (14)', '326 (39)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 144000, '660', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '632', '72', '22', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83202, '632', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '658', '28', '10', '328 (34)', '330 (22)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 111536, '658', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '632', '72', '18', '3')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80488, '632', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '658', '28', '9', '335 (13)', '323 (51)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 133959, '658', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '631', '72', '19', '3')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83199, '631', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '658', '26', '9', '331 (25)', '327 (34)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143709, '658', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '631', '72', '15', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 302, '631', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '657', '27', '9', '329 (29)', '328 (28)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 144763, '657', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '629', '72', '20', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83190, '629', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '656', '27', '8', '332 (19)', '324 (=49)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 147048, '656', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '627', '72', '23', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83176, '627', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '656', '26', '10', '325 (38)', '331 (19)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 147311, '656', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '627', '72', '19', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1919, '627', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '656', '26', '9', '328 (36)', '328 (27)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 146850, '656', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '627', '72', '18', '1')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2235, '627', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '656', '22', '5', '329 (30)', '327 (38)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143748, '656', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '626', '72', '16', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83194, '626', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '655', '26', '10', '330 (26)', '325 (43)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143710, '655', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '625', '72', '16', '8')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83171, '625', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '654', '23', '6', '330 (27)', '324 (=49)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143339, '654', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '624', '72', '15', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2111, '624', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '653', '24', '8', '322 (=49)', '331 (18)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 146210, '653', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '623', '72', '14', '3')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80501, '623', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '653', '24', '7', '329 (31)', '324 (48)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 134416, '653', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '622', '72', '19', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 440, '622', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '653', '23', '7', '326 (37)', '327 (=35)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 133798, '653', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '622', '72', '17', '5')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 380, '622', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '652', '26', '6', '323 (45)', '329 (24)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 102875, '652', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '619', '72', '16', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 401, '619', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '652', '21', '11', '329 (33)', '323 (52)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143091, '652', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '618', '72', '23', '8')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2108, '618', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '651', '23', '8', '324 (43)', '327 (37)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 121560, '651', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '617', '72', '14', '3')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2198, '617', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '651', '21', '9', '325 (=39)', '326 (41)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 132752, '651', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '616', '72', '21', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80478, '616', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '651', '21', '8', '321 (52)', '330 (23)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 146550, '651', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '616', '72', '14', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83189, '616', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '650', '25', '8', '331 (23)', '319 (61)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 132453, '650', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '615', '72', '11', '2')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83201, '615', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '650', '23', '7', '322 (=49)', '328 (=31)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 140989, '650', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '614', '72', '12', '1')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1942, '614', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '650', '21', '6', '329 (32)', '321 (59)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 142460, '650', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '613', '72', '19', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83178, '613', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '649', '26', '6', '316 (57)', '333 (12)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 142674, '649', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '613', '72', '15', '5')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83177, '613', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '649', '23', '5', '322 (48)', '327 (=35)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 102879, '649', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '613', '72', '13', '7')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2040, '613', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '649', '22', '5', '321 (51)', '328 (=31)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 126572, '649', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '607', '71', '15', '2')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83179, '607', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '649', '18', '7', '321 (53)', '328 (30)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143092, '649', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '606', '72', '16', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83184, '606', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '648', '25', '6', '323 (46)', '325 (42)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 124865, '648', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '604', '72', '16', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83164, '604', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '648', '21', '11', '325 (41)', '323 (55)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 102853, '648', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '603', '72', '15', '5')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 304, '603', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '648', '21', '7', '325 (=39)', '323 (56)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 142799, '648', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '603', '72', '12', '6')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 471, '603', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '647', '22', '12', '319 (54)', '328 (29)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 144764, '647', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '603', '72', '12', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80486, '603', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '647', '20', '5', '322 (47)', '325 (47)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 147597, '647', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '596', '72', '13', '2')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80495, '596', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '646', '22', '6', '325 (42)', '321 (58)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 145357, '646', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '596', '72', '7', '1')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 346, '596', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '646', '21', '7', '324 (44)', '322 (57)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 102885, '646', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '596', '71', '10', '3')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83180, '596', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '645', '28', '9', '315 (59)', '330 (21)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2502893, '645', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '595', '72', '9', '2')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80481, '595', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '640', '21', '8', '315 (58)', '325 (46)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 111548, '640', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '588', '72', '8', '2')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80484, '588', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '639', '22', '7', '314 (60)', '325 (45)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 123462, '639', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '572', '72', '9', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2075, '572', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '637', '19', '6', '317 (56)', '320 (60)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 2069, '637', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '556', '72', '7', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80483, '556', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '635', '19', '8', '312 (61)', '323 (53)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143957, '635', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '546', '72', '11', '4')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83206, '546', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '632', '15', '5', '319 (55)', '313 (63)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 143664, '632', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '537', '72', '10', '2')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 83173, '537', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '631', '16', '4', '308 (63)', '323 (54)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 146900, '631', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '500', '72', '4', '0')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 1957, '500', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '629', '18', '4', '312 (62)', '317 (62)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 127171, '629', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
-curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '419', '71', '3', '1')")
-curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 80467, '419', 'Points', null, (SELECT COUNT(*) FROM resultat))")
+curseur.execute(f"INSERT INTO resultat(idresultat, idevenement, idmanche, resultat1, resultat2, resultat3, resultat4, resultat5) VALUES ((SELECT COUNT(*)+1 FROM resultat),{idev}, {id_manche}, '582', '13', '2', '282 (64)', '300 (64)')")
+curseur.execute(f"INSERT INTO performance_individuelle VALUES ({idev}, {id_manche}, 135095, '582', 'Points', null, (SELECT COUNT(*) FROM resultat))")
 
